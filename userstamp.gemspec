@@ -15,7 +15,6 @@ Gem::Specification.new do |s|
     "LICENSE"
   ]
   s.files = [
-    ".gitignore",
      "CHANGELOG",
      "Gemfile",
      "Gemfile.lock",
